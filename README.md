@@ -1,5 +1,7 @@
 # textlint-plugin-text [![Build Status](https://travis-ci.org/textlint/textlint-plugin-text.svg?branch=master)](https://travis-ci.org/textlint/textlint-plugin-text)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/textlint/textlint-plugin-text.svg)](https://greenkeeper.io/)
+
 text support for [textlint](https://github.com/textlint/textlint "textlint").
 
 ## Installation
